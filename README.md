@@ -1,1 +1,1 @@
-# Newsletter-management Front-end
+# Newsletter-management Front-end section
